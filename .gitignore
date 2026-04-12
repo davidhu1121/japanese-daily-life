@@ -24,9 +24,8 @@ dist/
 # 日志
 *.log
 
-# 音频文件（体积大，通过 GitHub 网页手动上传到仓库）
-# 如果你想把音频提交进来，注释掉下面这行
-audio/*.mp3
+# 音频文件
+# audio/*.mp3
 
 # PDF 教材（通过 GitHub Releases 分发）
 *.pdf
